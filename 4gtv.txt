@@ -1,4 +1,4 @@
-
+TV,#genre#
 中天新闻,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv009
 TVBS新闻台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv072
 东森新闻,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv152
